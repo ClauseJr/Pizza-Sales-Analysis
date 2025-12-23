@@ -37,3 +37,10 @@ In the initial data preparation process, we performed the folloing tasks:
   2. Handling missing values and nulls.
   3. Handling Duplicates and Identifying inconsistencies in Dates.
   4. Data cleaning and formating.
+
+Phase 2: Data Modeling & Analysis (Power BI)
+
+In Data modeling, we performed the following tasks:
+  1. Implemented a snowflex schema with order_details as fact table
+  2. Established relationships using pizza_id, pizza_type_id and order_id
+  3. Created a custom Dates table using DAX for period analysis
