@@ -8,7 +8,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 
 ### Data Sources
-Pizza Sales Data: The primary dataset of this analysis is from [kaggle.com](kaggle.com) containg the following tables:
+Pizza Sales Data: The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com/) containg the following tables:
   - [order_details.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=order_details.csv)
   - [orders.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=orders.csv)
   - [pizza_types.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=pizza_types.csv)
