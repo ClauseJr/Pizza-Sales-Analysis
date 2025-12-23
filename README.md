@@ -44,3 +44,14 @@ In Data modeling, we performed the following tasks:
   1. Implemented a snowflex schema with order_details as fact table
   2. Established relationships using pizza_id, pizza_type_id and order_id
   3. Created a custom Dates table using DAX for period analysis
+  4. Key Dax Measures created:
+     -  Total Revenue
+     -  Total Cost
+     -  Total Orders
+     -  Average Cost
+       
+Phase  3: Visualisation Design 
+
+
+<img width="591" height="333" alt="Pizza BI 2" src="https://github.com/user-attachments/assets/287666f2-3d16-4a02-814a-b5b114880314" />
+
