@@ -55,3 +55,15 @@ Phase  3: Visualisation Design
 
 <img width="591" height="333" alt="Pizza BI 2" src="https://github.com/user-attachments/assets/287666f2-3d16-4a02-814a-b5b114880314" />
 
+Customer Insights Page:
+
+  -  Customer segmentation by age group (donut chart)
+  -  Retention rate by cohort (matrix visual)
+  -  Geographic revenue map (filled map)
+    
+Inventory Analysis Page:
+
+  -  Stock turnover by genre (treemap)
+  -  Reorder point analysis (scatter plot)
+  -  Seasonal demand forecast (line and column combo)
+
