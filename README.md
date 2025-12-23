@@ -13,3 +13,27 @@ Pizza Sales Data: The primary dataset of this analysis is from [kaggle.com](http
   - [orders.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=orders.csv)
   - [pizza_types.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=pizza_types.csv)
   - [pizzas.csv](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?select=pizzas.csv)
+
+
+### Tools Used
+a. Excel:
+  - Power Query for data cleaning and transformation
+  - Pivot Tables for initial analysis
+  - XLOOKUP for data validation
+
+b. Power BI:
+  - Power Query Editor for data modeling
+  - DAX for calculated measures and columns
+  - Custom visuals
+  - Bookmarks for interactive storytellings
+
+
+### Step-by-Step Processes
+
+Phase 1: Data Cleaning and Preparation
+
+In the initial data preparation process, we performed the folloing tasks:
+  1. Data loading and Inspection.
+  2. Handling missing values and nulls.
+  3. Handling Duplicates and Identifying inconsistencies in Dates.
+  4. Data cleaning and formating.
