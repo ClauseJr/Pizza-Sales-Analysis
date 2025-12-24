@@ -75,7 +75,7 @@ The analysis results are summarised as follows:
 
 Insight 1: Weekly Performance
 
-  -  Findings : High Sales were expericed on Thursday, Friday and Saturday.
+  -  Findings : High Sales were experienced on Thursday, Friday and Saturday.
   -  Recommendation : Focus on maximizing profit and efficiency during the Thursday-Saturday weekend window while using other days to build loyalty and volume.
 
 Insight 2: Monthly Performance
@@ -85,7 +85,7 @@ Insight 2: Monthly Performance
     
 Insight 3: Sales Performance by Category
 
-  -  Findings : Classic Pizza Catogry is the best performing pizza category in terms of sales and revenue
+  -  Findings : Classic Pizza Category is the best performing pizza category in terms of sales and revenue
   -  Recommendation : Focus on expanding and promoting Classic Pizza Category
     
 Insight 4: Sales Performance by Size
