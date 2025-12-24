@@ -69,14 +69,32 @@ Revenue_Analysis_Page:
   -  Revenue returns by category (Pie chart)
   -  Revenue analysis per month (line charts)
 
-### Results/Findings
+### Key Insights and Recommendations
 
 The analysis results are summarised as follows:
-  1.  Weekly Performance - High Sales were expericed on Thursday, Friday and Saturday.
-  2.  Monthly Performance - A lot Sales were made in the months of January, March, May, July and August. With July experiencing the best Sales
-  3.  Sales Performance by Category - Classic Pizza Catogry is the best performing pizza category in terms of sales and revenue
-  4.  Sales Performance by Size - Large Pizzas is the best performing pizza size in terms of sales and revenue generated across the entire year
+
+Insight 1: Weekly Performance
+
+  -  Findings : High Sales were expericed on Thursday, Friday and Saturday.
+  -  Recommendation : 
+
+Insight 2: Monthly Performance
+
+  -  Findings : A lot Sales were made in the months of January, March, May, July and August. With July experiencing the best Sales
+  -  Recommendation : Investing in marketing and promotions during the peak selling seasons to maximize on the revenue.
+    
+Insight 3: Sales Performance by Category
+
+  -  Findings : Classic Pizza Catogry is the best performing pizza category in terms of sales and revenue
+  -  Recommendation : Focus on expanding and promoting Classic Pizza Category
+    
+Insight 4: Sales Performance by Size
+
+  -  Findings : Large Pizzas is the best performing pizza size in terms of sales and revenue generated across the entire year
+  -  Recommendation : Focus on bundled promotions, supported by marketing campaigns, while conducting a detailed profitability analysis to ensure optimal revenue.
 
 
 <img width="593" height="332" alt="Revenue BI 1" src="https://github.com/user-attachments/assets/8ecca9a6-afe8-4cb8-af5f-f1e1bf1fb040" />
+
+
 
