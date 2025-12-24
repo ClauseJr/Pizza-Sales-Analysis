@@ -76,7 +76,7 @@ The analysis results are summarised as follows:
 Insight 1: Weekly Performance
 
   -  Findings : High Sales were expericed on Thursday, Friday and Saturday.
-  -  Recommendation : 
+  -  Recommendation : Focus on maximizing profit and efficiency during the Thursday-Saturday weekend window while using other days to build loyalty and volume.
 
 Insight 2: Monthly Performance
 
@@ -95,6 +95,9 @@ Insight 4: Sales Performance by Size
 
 
 <img width="593" height="332" alt="Revenue BI 1" src="https://github.com/user-attachments/assets/8ecca9a6-afe8-4cb8-af5f-f1e1bf1fb040" />
+
+### Limitations 
+I had to remove zero values from sales and quantity columns, since they would have affected the accuracy and conclusions of my analysis. Though there are still outliers even after omissions, we can still see that there is a positive correlation between sales and revenue.
 
 
 
