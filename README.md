@@ -6,6 +6,14 @@
 
 This data analysis project aims to provide insights into the sales performance of a Pizza Outlet in 2015. By analyzing various aspects of sales data, we seek to identify trends in price performance, revenue behavior, sales management, make data driven recommendations and gain a deeper understanding of the company's performance. This project demonstrates full-stack data skills from data cleaning to interactive dashboard creation.
 
+### Project Objectives
+
+The following are the required objectives of the project:
+1.  Daily trends of total orders over a specific time period.
+2.  Monthly trends of total orders throughout the year.
+3.  Distribution of sales across different pizza categories.
+4.  Percentage of sales attributed to different pizza sizes.
+5.  Highlighting the top best selling pizza categories and pizza sizes.
 
 ### Data Sources
 Pizza Sales Data: The primary dataset of this analysis is from [kaggle.com](https://www.kaggle.com/) containg the following tables:
