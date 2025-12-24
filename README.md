@@ -99,5 +99,10 @@ Insight 4: Sales Performance by Size
 ### Limitations 
 I had to remove zero values from sales and quantity columns, since they would have affected the accuracy and conclusions of my analysis. Though there are still outliers even after omissions, we can still see that there is a positive correlation between sales and revenue.
 
+### References
+1.  Data Engineering with Baara [Baara.com](https://www.youtube.com/@DataWithBaraa)
+2.  Data Analysis with Chandoo [chandoo.com](https://www.youtube.com/@chandoo_)
+3.  [Good Strategy Bad Strategy by Richard Rumelt](https://therightquestions.co/book-review-of-a-top-book-on-strategy/)
+
 
 
